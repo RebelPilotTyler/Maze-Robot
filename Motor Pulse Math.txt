@@ -1,0 +1,30 @@
+100 pulses = ~16cm
+
+100.5mm or 10.05cm = 1 rotation
+
+16 - 10.05 = 5.95
+5.95 / 10.05 = 0.59
+1 + 0.59 = numRotations
+
+100 pulses ~ 1.59 rotations
+
+1.59    1
+---- x ---
+100     ?
+
+100 = 1.59x
+
+x = 62.89 pulses
+
+~63 pulses = 1 rotation = 10.05cm
+
+10.05 / 62.89 = 0.16cm
+
+1 pulse = 1.6mm
+
+
+
+In the end:
+1 pulse = 1.6mm
+63 pulses = 1 rotation
+1 rotation = 10.05cm

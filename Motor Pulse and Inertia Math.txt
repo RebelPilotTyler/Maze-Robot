@@ -1,0 +1,14 @@
+6cm = 52
+7.1cm = 63
+
+60mm / 52 pulses = 1.15mm/pulse
+71mm / 63 pulses = 1.13mm/pulse
+58mm / 51 pulses = 1.14mm/pulse
+75mm / 64 pulses = 1.17mm/pulse
+71mm / 63 pulses = 1.13mm/pulse
+
+Avg = 1.144mm/pulse
+
+100.5mm = 1 Rotation
+
+100.5mm x 1.144mm/pulse = 115 pulses/rotation

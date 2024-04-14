@@ -1,0 +1,10 @@
+Arc Radius = 10cm
+1.144mm = 1 pulse
+
+2 * pi * r (angle / 360) = arc length
+
+2 * pi * 10 (90 / 360) = 15.71cm
+
+157.1mm
+
+157.1mm / 1.144mm/pulse ~= 137 pulses
